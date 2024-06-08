@@ -1,4 +1,4 @@
-# CoflMod-1.5.6
+# CoflMod
 
 A SkyBlock Flipping Mod.
 
