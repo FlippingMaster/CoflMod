@@ -14,4 +14,5 @@ Youtube - https://www.youtube.com/channel/UCCRAXdI-c93r1Z3AIEI2Nng
 - `/colf\ maxcost <amount> ` - Set the maximum buying price for a flip
 
 
+
 # We are not liable for any coins you lost by buying items without checking, flips aren't always perfect
